@@ -1,3 +1,8 @@
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 <h1 style="text-align:center;">Minimax Algorithm Implemetation in Tic Tac Toe by using Java Swings</h1>
 <p> Made with love by <a href="https://www.linkedin.com/in/anurag-g-a01531198/" target="_blank">Anurag Ghosh</a></p>
 </br>
@@ -6,7 +11,3 @@
 <p>
   The <abbr title="Performance measure, Environment, Actuator, Sensor">PEAS</abbr> Table for this AL Agent is as followed:
 </p>
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
