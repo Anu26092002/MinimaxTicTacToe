@@ -5,3 +5,4 @@
 <p> The computer first prepares all the possible position of the human player to make his/her move and then chooses the most optimal position as per the minimax algorithm </p>
 <p>
   The <abbr title="Performance measure, Environment, Actuator, Sensor">PEAS Table for this AI Agent is as followed: </abbr>
+</p>
