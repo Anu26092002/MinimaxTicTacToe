@@ -4,9 +4,9 @@
 <p> The player choice by default is <b>'X'</b> and the computer's or AI Agent's choice is <b>'O'</b> by default. The user can only lose or can be tied with the computer, the next move of the computer is predicted by using the minimax algorithm </p>
 <p> The computer first prepares all the possible position of the human player to make his/her move and then chooses the most optimal position as per the minimax algorithm </p>
 <p>
-  The <abbr title="Performance measure, Environment, Actuator, Sensor">PEAS</abbr> Table for this AL Agent is as followed:
-</p>
-<p>
+  <h3>
+    The <abbr title="Performance measure, Environment, Actuator, Sensor">PEAS</abbr> Table for this AL Agent is as followed:
+  </h3>
   <table style="width:100%; border: 1px solid black;border-collapse: collapse;">
     <tr>
       <th style="border: 1px solid black;border-collapse: collapse;">Agent</th>
@@ -45,3 +45,14 @@
     </tr>
   </table>
 </p>
+<p>
+  <h3>The classification of the Tic-Tac-Toe task Environment is as followed:</h3>
+  <ul>
+    <li><b>Fully observable</b>: Nothing is hidden from the agent. The agent can see all parts of the environment at all times.</li>
+    <li><b>Deterministic</b>: The next state of the board is completely determined by the move of the agent.</li>
+    <li><b>Sequential</b>: Later moves will depend on what moves were taken previously.</li>
+    <li><b>Static</b>: The game board remains constant while the agent is determining its next move.</li>
+    <li><b>Discrete</b>: Tic-Tac-Toe has a finite state space.</li>
+  </ul>
+</p>
+
