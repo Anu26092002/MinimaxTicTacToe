@@ -38,7 +38,7 @@
         </ul>
       </td>
       <td style="border: 1px solid black;border-collapse: collapse;">
-        The Human Player Moves
+        The Human Player's Moves
      </td>
     </tr>
   </table>
