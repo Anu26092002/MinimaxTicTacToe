@@ -37,7 +37,7 @@
       <td style="border: 1px solid black;border-collapse: collapse;">
         <ul>
           <li>The agent can play the game</li>
-          <li>The agent has to place three <b>O’s</b> in a row or prevent three <b>X’s</b> from being placed in a row
+          <li>The agent has to place three <b>O’s</b> in a row or prevent three <b>X’s</b> from being placed in a row</li>
           <li>The agent can <b>win</b> the game or at least <b>tie/draw</b></li>
         </ul>
       </td>
