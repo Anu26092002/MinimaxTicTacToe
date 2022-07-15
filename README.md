@@ -8,8 +8,8 @@
 <p>
   <h2>Documentation</h2>
   <ul>
-    <li> <a src="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Computer%20class%20Document/minimax/package-summary.html">Documentation of the minimax package </a></li>
-    <li> <a src="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Main%20Class%20Documentation/Main.html
+    <li> <a href="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Computer%20class%20Document/minimax/package-summary.html">Documentation of the minimax package </a></li>
+    <li> <a href="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Main%20Class%20Documentation/Main.html
 ">Documentation of the Main Class</a></li>
   </ul>
 <p> The player choice by default is <b>'X'</b> and the computer's or AI Agent's choice is <b>'O'</b> by default. The user can only lose or can be tied with the computer, the next move of the computer is predicted by using the minimax algorithm </p>
