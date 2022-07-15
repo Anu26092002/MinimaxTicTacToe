@@ -5,6 +5,13 @@
 </p>
 <p> Made with love by <a href="https://www.linkedin.com/in/anurag-g-a01531198/" target="_blank">Anurag Ghosh</a></p>
 </br>
+<p>
+  <h2>Documentation</h2>
+  <ul>
+    <li> <a src="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Computer%20class%20Document/minimax/package-summary.html">Documentation of the minimax package </a></li>
+    <li> <a src="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Main%20Class%20Documentation/Main.html
+">Documentation of the Main Class</a></li>
+  </ul>
 <p> The player choice by default is <b>'X'</b> and the computer's or AI Agent's choice is <b>'O'</b> by default. The user can only lose or can be tied with the computer, the next move of the computer is predicted by using the minimax algorithm </p>
 <p> The computer first prepares all the possible position of the human player to make his/her move and then chooses the most optimal position as per the minimax algorithm </p>
 <p>
