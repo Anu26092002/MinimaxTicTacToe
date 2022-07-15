@@ -3,17 +3,18 @@
 <p align="center">
   <img src="https://simo.sh/tic-tac-toe-win.gif" width="400" height="400" alt="tic tac toe gif"/>
 </p>
+<br/>
+<h2> :robot: Play a Demo Tic-Tac-Toe Game to vizualize the project <a href="https://www.google.com/search?q=tic+tac+toe" target="_blank">Google X and O</a> </h2>
 <p> Made with :orange_heart: :white_heart: :green_heart: by <a href="https://www.linkedin.com/in/anurag-g-a01531198/" target="_blank">Anurag Ghosh</a></p>
 <br/>
 <p>
   <h2>Documentation</h2>
   <ul>
-     <li> <a href="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Main%20Class%20Documentation/Main.html
-">Documentation of the Main Class</a></li>
-    <li> <a href="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Computer%20class%20Document/minimax/package-summary.html">Documentation of the minimax package </a></li>
+     <li> <a href="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Main%20Class%20Documentation/Main.html" target="_blank">Documentation of the Main Class</a></li>
+    <li> <a href="https://anu26092002.github.io/MinimaxTicTacToe/Documentation/Computer%20class%20Document/minimax/package-summary.html" target="_blank">Documentation of the minimax package </a></li>
   </ul>
   <br/>
-  <h1> :upside_down_face:	About the Game </h1>
+  <h1> :upside_down_face:	How to play the Game </h1>
 <p> The player choice by default is <b>'X'</b> and the computer's or AI Agent's choice is <b>'O'</b> by default. The user can only lose or can be tied with the computer, the next move of the computer is predicted by using the minimax algorithm </p>
 <p> The computer first prepares all the possible position of the human player to make his/her move and then chooses the most optimal position as per the minimax algorithm </p>
 <p>
