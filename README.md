@@ -4,7 +4,8 @@
   <img src="https://simo.sh/tic-tac-toe-win.gif" width="400" height="400" alt="tic tac toe gif"/>
 </p>
 <br/>
-<h2> :robot: Play a Demo Tic-Tac-Toe Game to vizualize the project <a href="https://www.google.com/search?q=tic+tac+toe" target="_blank">Google X and O</a> </h2>
+<h2> :robot: Play a Demo Tic-Tac-Toe Game to vizualize the project with <a href="https://www.google.com/search?q=tic+tac+toe" target="_blank">Google X and O</a> </h2>
+<br/>
 <p> Made with :orange_heart: :white_heart: :green_heart: by <a href="https://www.linkedin.com/in/anurag-g-a01531198/" target="_blank">Anurag Ghosh</a></p>
 <br/>
 <p>
