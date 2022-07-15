@@ -18,9 +18,10 @@
   <h1> :upside_down_face:	How to play the Game </h1>
 <p> The player choice by default is <b>'X'</b> and the computer's or AI Agent's choice is <b>'O'</b> by default. The user can only lose or can be tied with the computer, the next move of the computer is predicted by using the minimax algorithm </p>
 <p> The computer first prepares all the possible position of the human player to make his/her move and then chooses the most optimal position as per the minimax algorithm </p>
+<br/>
 <p>
   <h3>
-    The <abbr title="Performance measure, Environment, Actuator, Sensor">PEAS</abbr> Table for this AL Agent is as followed:
+    The <abbr title="Performance measure, Environment, Actuator, Sensor">PEAS</abbr> Table for this AI Agent is as followed:
   </h3>
   <table style="width:100%; border: 1px solid black;border-collapse: collapse;">
     <tr>
